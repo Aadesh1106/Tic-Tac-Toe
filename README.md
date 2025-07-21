@@ -1,10 +1,10 @@
-# ❌⭕ Tic-Tac-Toe Game (C Language)
+#  Tic-Tac-Toe Game (C Language)
 
 A simple **two-player Tic-Tac-Toe** game implemented in the **C programming language** for the command line. This project is great for beginners who want to understand control flow, functions, and 2D arrays in C.
 
 ---
 
-## 🎮 Game Features
+##  Game Features
 
 - Two-player mode (Player 1: X, Player 2: O)
 - Win and draw detection
@@ -14,7 +14,7 @@ A simple **two-player Tic-Tac-Toe** game implemented in the **C programming lang
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Language: **C**
 - No external libraries required
@@ -22,7 +22,7 @@ A simple **two-player Tic-Tac-Toe** game implemented in the **C programming lang
 
 ---
 
-## ⚙️ How to Compile and Run
+##  How to Compile and Run
 
 ### 1. Clone the Repository
 
